@@ -1,0 +1,4601 @@
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Elapsed time of solver =  280729386802.101562 nanoseconds
+Relative norm of error = 0.000170
+Number of iterations = 1677
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Elapsed time of solver =  274289605751.020996 nanoseconds
+Relative norm of error = 0.000335
+Number of iterations = 1770
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Elapsed time of solver =  257199940916.971680 nanoseconds
+Relative norm of error = 0.000142
+Number of iterations = 2283
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Elapsed time of solver =  189794998152.912598 nanoseconds
+Relative norm of error = 0.000941
+Number of iterations = 1971
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Elapsed time of solver =  68528278829.026367 nanoseconds
+Relative norm of error = 0.047242
+Number of iterations = 750
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Elapsed time of solver =  131764788560.811035 nanoseconds
+Relative norm of error = 0.000139
+Number of iterations = 1389
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Elapsed time of solver =  46016978719.721191 nanoseconds
+Relative norm of error = 0.052849
+Number of iterations = 463
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Elapsed time of solver =  142987878110.505859 nanoseconds
+Relative norm of error = 0.000091
+Number of iterations = 1563
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Elapsed time of solver =  216191998519.418457 nanoseconds
+Relative norm of error = 0.000204
+Number of iterations = 2287
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Elapsed time of solver =  82143038009.251953 nanoseconds
+Relative norm of error = 0.046730
+Number of iterations = 847
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-166 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Elapsed time of solver =  201358456588.834473 nanoseconds
+Relative norm of error = 0.000906
+Number of iterations = 2183
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Elapsed time of solver =  173370643301.804688 nanoseconds
+Relative norm of error = 0.001343
+Number of iterations = 1869
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-168 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Elapsed time of solver =  194095070888.263672 nanoseconds
+Relative norm of error = 0.000108
+Number of iterations = 2043
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Elapsed time of solver =  181153823961.898926 nanoseconds
+Relative norm of error = 0.000673
+Number of iterations = 1961
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Elapsed time of solver =  138351124488.888672 nanoseconds
+Relative norm of error = 0.000050
+Number of iterations = 1481
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-168 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Recovery start...
+Rollback from iteration-832 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1902 to iteration-1836
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2700
+Checkpoint end.
+Elapsed time of solver =  277391684423.830566 nanoseconds
+Relative norm of error = 0.001359
+Number of iterations = 2921
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Elapsed time of solver =  89249327989.919434 nanoseconds
+Relative norm of error = 3.375258
+Number of iterations = 970
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Recovery start...
+Rollback from iteration-2666 to iteration-2592
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2700
+Checkpoint end.
+Elapsed time of solver =  275616394397.132812 nanoseconds
+Relative norm of error = 0.000036
+Number of iterations = 2913
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Elapsed time of solver =  213928079259.417969 nanoseconds
+Relative norm of error = 0.000043
+Number of iterations = 2239
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Recovery start...
+Rollback from iteration-164 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Elapsed time of solver =  144059667427.361328 nanoseconds
+Relative norm of error = 0.000178
+Number of iterations = 1509
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-226 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-334 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-484 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Recovery start...
+Rollback from iteration-726 to iteration-648
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Recovery start...
+Rollback from iteration-862 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1056 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Elapsed time of solver =  133234973643.696289 nanoseconds
+Relative norm of error = 0.039968
+Number of iterations = 1425
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-234 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-396 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-460 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Recovery start...
+Rollback from iteration-638 to iteration-540
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1038 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Recovery start...
+Rollback from iteration-1150 to iteration-1080
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Recovery start...
+Rollback from iteration-1358 to iteration-1296
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1426 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Recovery start...
+Rollback from iteration-1594 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Recovery start...
+Rollback from iteration-2034 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2014 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2034 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2000 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2002 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2016 to iteration-1944
+Recovery end.
+Recovery start...
+Rollback from iteration-2052 to iteration-1944
+Recovery end.
+Elapsed time of solver =  283960059161.399902 nanoseconds
+Relative norm of error = 0.027321
+Number of iterations = 3038
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-224 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-340 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-502 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Recovery start...
+Rollback from iteration-622 to iteration-540
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-968 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Recovery start...
+Rollback from iteration-1356 to iteration-1296
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1494 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Recovery start...
+Rollback from iteration-1708 to iteration-1620
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Recovery start...
+Rollback from iteration-1810 to iteration-1728
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Elapsed time of solver =  229260167354.724609 nanoseconds
+Relative norm of error = 0.039040
+Number of iterations = 2449
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-224 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-344 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-532 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Recovery start...
+Rollback from iteration-1374 to iteration-1296
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Recovery start...
+Rollback from iteration-1908 to iteration-1836
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Recovery start...
+Rollback from iteration-2026 to iteration-1944
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Recovery start...
+Rollback from iteration-2070 to iteration-2052
+Recovery end.
+Elapsed time of solver =  242690379757.413574 nanoseconds
+Relative norm of error = 0.045674
+Number of iterations = 2530
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-224 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-336 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-532 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Elapsed time of solver =  80160275198.025879 nanoseconds
+Relative norm of error = 0.047740
+Number of iterations = 868
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-226 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-332 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-448 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Recovery start...
+Rollback from iteration-848 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-952 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1042 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Recovery start...
+Rollback from iteration-1154 to iteration-1080
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1438 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Recovery start...
+Rollback from iteration-1572 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Recovery start...
+Rollback from iteration-1658 to iteration-1620
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Recovery start...
+Rollback from iteration-1806 to iteration-1728
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Recovery start...
+Rollback from iteration-2000 to iteration-1944
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Recovery start...
+Rollback from iteration-2084 to iteration-2052
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Inject an error in V at iteration-2161
+Recovery start...
+Rollback from iteration-2238 to iteration-2160
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Inject an error in V at iteration-2269
+Recovery start...
+Rollback from iteration-2304 to iteration-2268
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Inject an error in V at iteration-2377
+Recovery start...
+Rollback from iteration-2454 to iteration-2376
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Inject an error in V at iteration-2485
+Recovery start...
+Rollback from iteration-2552 to iteration-2484
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Inject an error in V at iteration-2593
+Checkpoint start...
+Checkpoint at iteration-2700
+Checkpoint end.
+Inject an error in V at iteration-2701
+Checkpoint start...
+Checkpoint at iteration-2808
+Checkpoint end.
+Inject an error in V at iteration-2809
+Checkpoint start...
+Checkpoint at iteration-2916
+Checkpoint end.
+Inject an error in V at iteration-2917
+Recovery start...
+Rollback from iteration-3022 to iteration-2916
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-3024
+Checkpoint end.
+Inject an error in V at iteration-3025
+Recovery start...
+Rollback from iteration-3132 to iteration-3024
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-3132
+Checkpoint end.
+Inject an error in V at iteration-3133
+Checkpoint start...
+Checkpoint at iteration-3240
+Checkpoint end.
+Inject an error in V at iteration-3241
+Checkpoint start...
+Checkpoint at iteration-3348
+Checkpoint end.
+Inject an error in V at iteration-3349
+Recovery start...
+Rollback from iteration-3434 to iteration-3348
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-3456
+Checkpoint end.
+Inject an error in V at iteration-3457
+Recovery start...
+Rollback from iteration-3548 to iteration-3456
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-3564
+Checkpoint end.
+Inject an error in V at iteration-3565
+Recovery start...
+Rollback from iteration-3630 to iteration-3564
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-3672
+Checkpoint end.
+Inject an error in V at iteration-3673
+Checkpoint start...
+Checkpoint at iteration-3780
+Checkpoint end.
+Inject an error in V at iteration-3781
+Checkpoint start...
+Checkpoint at iteration-3888
+Checkpoint end.
+Inject an error in V at iteration-3889
+Checkpoint start...
+Checkpoint at iteration-3996
+Checkpoint end.
+Inject an error in V at iteration-3997
+Recovery start...
+Rollback from iteration-4088 to iteration-3996
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-4104
+Checkpoint end.
+Inject an error in V at iteration-4105
+Recovery start...
+Rollback from iteration-4132 to iteration-4104
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-4212
+Checkpoint end.
+Inject an error in V at iteration-4213
+Checkpoint start...
+Checkpoint at iteration-4320
+Checkpoint end.
+Inject an error in V at iteration-4321
+Checkpoint start...
+Checkpoint at iteration-4428
+Checkpoint end.
+Inject an error in V at iteration-4429
+Recovery start...
+Rollback from iteration-4524 to iteration-4428
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-4536
+Checkpoint end.
+Inject an error in V at iteration-4537
+Checkpoint start...
+Checkpoint at iteration-4644
+Checkpoint end.
+Inject an error in V at iteration-4645
+Checkpoint start...
+Checkpoint at iteration-4752
+Checkpoint end.
+Inject an error in V at iteration-4753
+Recovery start...
+Rollback from iteration-4802 to iteration-4752
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-4860
+Checkpoint end.
+Inject an error in V at iteration-4861
+Recovery start...
+Rollback from iteration-4896 to iteration-4860
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-4968
+Checkpoint end.
+Inject an error in V at iteration-4969
+Recovery start...
+Rollback from iteration-5068 to iteration-4968
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5076
+Checkpoint end.
+Inject an error in V at iteration-5077
+Checkpoint start...
+Checkpoint at iteration-5184
+Checkpoint end.
+Inject an error in V at iteration-5185
+Checkpoint start...
+Checkpoint at iteration-5292
+Checkpoint end.
+Inject an error in V at iteration-5293
+Recovery start...
+Rollback from iteration-5378 to iteration-5292
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5400
+Checkpoint end.
+Inject an error in V at iteration-5401
+Recovery start...
+Rollback from iteration-5434 to iteration-5400
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5508
+Checkpoint end.
+Inject an error in V at iteration-5509
+Checkpoint start...
+Checkpoint at iteration-5616
+Checkpoint end.
+Inject an error in V at iteration-5617
+Recovery start...
+Rollback from iteration-5670 to iteration-5616
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5724
+Checkpoint end.
+Inject an error in V at iteration-5725
+Recovery start...
+Rollback from iteration-5776 to iteration-5724
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5832
+Checkpoint end.
+Inject an error in V at iteration-5833
+Recovery start...
+Rollback from iteration-5910 to iteration-5832
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-5940
+Checkpoint end.
+Inject an error in V at iteration-5941
+Recovery start...
+Rollback from iteration-6032 to iteration-5940
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-6048
+Checkpoint end.
+Inject an error in V at iteration-6049
+Checkpoint start...
+Checkpoint at iteration-6156
+Checkpoint end.
+Inject an error in V at iteration-6157
+Checkpoint start...
+Checkpoint at iteration-6264
+Checkpoint end.
+Inject an error in V at iteration-6265
+Checkpoint start...
+Checkpoint at iteration-6372
+Checkpoint end.
+Inject an error in V at iteration-6373
+Recovery start...
+Rollback from iteration-6450 to iteration-6372
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-6480
+Checkpoint end.
+Inject an error in V at iteration-6481
+Checkpoint start...
+Checkpoint at iteration-6588
+Checkpoint end.
+Inject an error in V at iteration-6589
+Recovery start...
+Rollback from iteration-6646 to iteration-6588
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-6696
+Checkpoint end.
+Inject an error in V at iteration-6697
+Recovery start...
+Rollback from iteration-6788 to iteration-6696
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-6804
+Checkpoint end.
+Inject an error in V at iteration-6805
+Checkpoint start...
+Checkpoint at iteration-6912
+Checkpoint end.
+Inject an error in V at iteration-6913
+Checkpoint start...
+Checkpoint at iteration-7020
+Checkpoint end.
+Inject an error in V at iteration-7021
+Recovery start...
+Rollback from iteration-7120 to iteration-7020
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7128
+Checkpoint end.
+Inject an error in V at iteration-7129
+Checkpoint start...
+Checkpoint at iteration-7236
+Checkpoint end.
+Inject an error in V at iteration-7237
+Recovery start...
+Rollback from iteration-7300 to iteration-7236
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7344
+Checkpoint end.
+Inject an error in V at iteration-7345
+Recovery start...
+Rollback from iteration-7444 to iteration-7344
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7452
+Checkpoint end.
+Inject an error in V at iteration-7453
+Recovery start...
+Rollback from iteration-7510 to iteration-7452
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7560
+Checkpoint end.
+Inject an error in V at iteration-7561
+Recovery start...
+Rollback from iteration-7636 to iteration-7560
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7668
+Checkpoint end.
+Inject an error in V at iteration-7669
+Checkpoint start...
+Checkpoint at iteration-7776
+Checkpoint end.
+Inject an error in V at iteration-7777
+Checkpoint start...
+Checkpoint at iteration-7884
+Checkpoint end.
+Inject an error in V at iteration-7885
+Recovery start...
+Rollback from iteration-7932 to iteration-7884
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-7992
+Checkpoint end.
+Inject an error in V at iteration-7993
+Recovery start...
+Rollback from iteration-8048 to iteration-7992
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8100
+Checkpoint end.
+Inject an error in V at iteration-8101
+Recovery start...
+Rollback from iteration-8188 to iteration-8100
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8208
+Checkpoint end.
+Inject an error in V at iteration-8209
+Checkpoint start...
+Checkpoint at iteration-8316
+Checkpoint end.
+Inject an error in V at iteration-8317
+Recovery start...
+Rollback from iteration-8378 to iteration-8316
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8424
+Checkpoint end.
+Inject an error in V at iteration-8425
+Recovery start...
+Rollback from iteration-8516 to iteration-8424
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8532
+Checkpoint end.
+Inject an error in V at iteration-8533
+Recovery start...
+Rollback from iteration-8604 to iteration-8532
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8640
+Checkpoint end.
+Inject an error in V at iteration-8641
+Checkpoint start...
+Checkpoint at iteration-8748
+Checkpoint end.
+Inject an error in V at iteration-8749
+Recovery start...
+Rollback from iteration-8814 to iteration-8748
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8856
+Checkpoint end.
+Inject an error in V at iteration-8857
+Recovery start...
+Rollback from iteration-8908 to iteration-8856
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-8964
+Checkpoint end.
+Inject an error in V at iteration-8965
+Elapsed time of solver =  1181224156461.133301 nanoseconds
+Relative norm of error = 0.004568
+Number of iterations = 12398
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-230 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-328 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-464 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-966 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1010 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Recovery start...
+Rollback from iteration-1152 to iteration-1080
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Recovery start...
+Rollback from iteration-1256 to iteration-1188
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Recovery start...
+Rollback from iteration-1336 to iteration-1296
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1418 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Recovery start...
+Rollback from iteration-1602 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Elapsed time of solver =  214948580359.244629 nanoseconds
+Relative norm of error = 0.000112
+Number of iterations = 2258
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-220 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-350 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-486 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Recovery start...
+Rollback from iteration-690 to iteration-648
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Recovery start...
+Rollback from iteration-838 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-944 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1034 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Recovery start...
+Rollback from iteration-1712 to iteration-1620
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Recovery start...
+Rollback from iteration-2130 to iteration-2052
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Inject an error in V at iteration-2161
+Recovery start...
+Rollback from iteration-2182 to iteration-2160
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Inject an error in V at iteration-2269
+Recovery start...
+Rollback from iteration-2354 to iteration-2268
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Inject an error in V at iteration-2377
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Inject an error in V at iteration-2485
+Elapsed time of solver =  305284636634.773438 nanoseconds
+Relative norm of error = 0.042960
+Number of iterations = 3222
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-230 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-332 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-474 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Recovery start...
+Rollback from iteration-840 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-888 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1026 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Recovery start...
+Rollback from iteration-1174 to iteration-1080
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1472 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Recovery start...
+Rollback from iteration-1560 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Recovery start...
+Rollback from iteration-1664 to iteration-1620
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Recovery start...
+Rollback from iteration-1914 to iteration-1836
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Recovery start...
+Rollback from iteration-2026 to iteration-1944
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Recovery start...
+Rollback from iteration-2136 to iteration-2052
+Recovery end.
+Elapsed time of solver =  274204907272.870605 nanoseconds
+Relative norm of error = 0.031229
+Number of iterations = 2860
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Recovery start...
+Rollback from iteration-110 to iteration-108
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Recovery start...
+Rollback from iteration-218 to iteration-216
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Recovery start...
+Rollback from iteration-344 to iteration-324
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Recovery start...
+Rollback from iteration-446 to iteration-432
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Recovery start...
+Rollback from iteration-610 to iteration-540
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Recovery start...
+Rollback from iteration-718 to iteration-648
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Recovery start...
+Rollback from iteration-852 to iteration-756
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Recovery start...
+Rollback from iteration-914 to iteration-864
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Recovery start...
+Rollback from iteration-1056 to iteration-972
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Recovery start...
+Rollback from iteration-1450 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Recovery start...
+Rollback from iteration-1594 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Elapsed time of solver =  224371105625.315430 nanoseconds
+Relative norm of error = 0.002909
+Number of iterations = 2336
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1618 to iteration-1512
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2700
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2808
+Checkpoint end.
+Elapsed time of solver =  280646904414.523926 nanoseconds
+Relative norm of error = 0.000055
+Number of iterations = 2947
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Elapsed time of solver =  140228305878.755371 nanoseconds
+Relative norm of error = 0.000093
+Number of iterations = 1484
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1402 to iteration-1296
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Elapsed time of solver =  233434070227.287109 nanoseconds
+Relative norm of error = 0.000073
+Number of iterations = 2431
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Elapsed time of solver =  158384959101.624023 nanoseconds
+Relative norm of error = 0.000202
+Number of iterations = 1639
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Elapsed time of solver =  170252989419.703125 nanoseconds
+Relative norm of error = 0.000040
+Number of iterations = 1772
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Elapsed time of solver =  119915729114.048828 nanoseconds
+Relative norm of error = 0.075368
+Number of iterations = 1230
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Elapsed time of solver =  182537661605.021484 nanoseconds
+Relative norm of error = 0.000192
+Number of iterations = 1905
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Elapsed time of solver =  147966110480.477051 nanoseconds
+Relative norm of error = 0.000434
+Number of iterations = 1536
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1398 to iteration-1296
+Recovery end.
+Elapsed time of solver =  143131779901.191406 nanoseconds
+Relative norm of error = 0.044856
+Number of iterations = 1477
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Elapsed time of solver =  86079028766.879395 nanoseconds
+Relative norm of error = 0.604901
+Number of iterations = 893
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Elapsed time of solver =  85504048670.913574 nanoseconds
+Relative norm of error = 0.002986
+Number of iterations = 915
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Elapsed time of solver =  190106934386.148926 nanoseconds
+Relative norm of error = 0.000968
+Number of iterations = 1986
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Elapsed time of solver =  134845538075.312012 nanoseconds
+Relative norm of error = 0.000046
+Number of iterations = 1423
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1250 to iteration-1188
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Recovery start...
+Rollback from iteration-1480 to iteration-1404
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2700
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2808
+Checkpoint end.
+Elapsed time of solver =  286862582930.130859 nanoseconds
+Relative norm of error = 0.000077
+Number of iterations = 2954
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Elapsed time of solver =  183746034725.169434 nanoseconds
+Relative norm of error = 0.000650
+Number of iterations = 1910
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Elapsed time of solver =  206631404481.158203 nanoseconds
+Relative norm of error = 0.000130
+Number of iterations = 2165
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Elapsed time of solver =  238902175042.032715 nanoseconds
+Relative norm of error = 0.000071
+Number of iterations = 2461
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Elapsed time of solver =  106080051033.737305 nanoseconds
+Relative norm of error = 0.050915
+Number of iterations = 1072
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Elapsed time of solver =  90053095836.801270 nanoseconds
+Relative norm of error = 30.778238
+Number of iterations = 962
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Elapsed time of solver =  162938566697.189941 nanoseconds
+Relative norm of error = 0.000159
+Number of iterations = 1682
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-162
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Elapsed time of solver =  143571422310.615723 nanoseconds
+Relative norm of error = 0.000069
+Number of iterations = 1521
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Elapsed time of solver =  92537503759.947266 nanoseconds
+Relative norm of error = 0.089419
+Number of iterations = 931
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Elapsed time of solver =  53377279666.914062 nanoseconds
+Relative norm of error = 0.051559
+Number of iterations = 558
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Elapsed time of solver =  154948082275.419922 nanoseconds
+Relative norm of error = 0.000088
+Number of iterations = 1512
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Elapsed time of solver =  200551608997.517090 nanoseconds
+Relative norm of error = 0.000118
+Number of iterations = 1823
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Elapsed time of solver =  84837592393.885742 nanoseconds
+Relative norm of error = 0.045122
+Number of iterations = 821
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Elapsed time of solver =  226182590727.656738 nanoseconds
+Relative norm of error = 0.000152
+Number of iterations = 2110
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Inject an error in V at iteration-1837
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Inject an error in V at iteration-1945
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Inject an error in V at iteration-2053
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Inject an error in V at iteration-2161
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Inject an error in V at iteration-2269
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Inject an error in V at iteration-2377
+Elapsed time of solver =  243224718080.216309 nanoseconds
+Relative norm of error = 0.000204
+Number of iterations = 2468
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Elapsed time of solver =  174599821547.410645 nanoseconds
+Relative norm of error = 0.000097
+Number of iterations = 1794
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Elapsed time of solver =  145578090089.030762 nanoseconds
+Relative norm of error = 0.000505
+Number of iterations = 1482
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Inject an error in V at iteration-109
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Inject an error in V at iteration-217
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Inject an error in V at iteration-325
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Inject an error in V at iteration-433
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Inject an error in V at iteration-541
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Inject an error in V at iteration-649
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Inject an error in V at iteration-757
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Inject an error in V at iteration-865
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Inject an error in V at iteration-973
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Inject an error in V at iteration-1081
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Inject an error in V at iteration-1189
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Inject an error in V at iteration-1297
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Inject an error in V at iteration-1405
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Inject an error in V at iteration-1513
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Inject an error in V at iteration-1621
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Inject an error in V at iteration-1729
+Elapsed time of solver =  175124091542.110352 nanoseconds
+Relative norm of error = 0.001644
+Number of iterations = 1796
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Elapsed time of solver =  364733734390.164062 nanoseconds
+Relative norm of error = 0.001611
+Number of iterations = 1699
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Elapsed time of solver =  228971342207.382812 nanoseconds
+Relative norm of error = 0.040926
+Number of iterations = 995
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Elapsed time of solver =  529162051173.952637 nanoseconds
+Relative norm of error = 0.000128
+Number of iterations = 2396
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-648
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-756
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-864
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-972
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1080
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1188
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1296
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1404
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1512
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1620
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1728
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1836
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-1944
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2052
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2160
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2268
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2376
+Checkpoint end.
+Recovery start...
+Rollback from iteration-2394 to iteration-2376
+Recovery end.
+Checkpoint start...
+Checkpoint at iteration-2484
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-2592
+Checkpoint end.
+Elapsed time of solver =  578341753275.511230 nanoseconds
+Relative norm of error = 0.000182
+Number of iterations = 2671
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6368600
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Checkpoint start...
+Checkpoint at iteration-108
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-216
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-324
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-432
+Checkpoint end.
+Checkpoint start...
+Checkpoint at iteration-540
+Checkpoint end.

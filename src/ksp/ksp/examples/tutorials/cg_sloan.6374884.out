@@ -1,0 +1,460 @@
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  97879863881.668457 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  99135213619.434570 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  92036333359.834473 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  97411041244.482422 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  97229087700.029297 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  92069968316.210449 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  98383672615.150391 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  93733399915.003906 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  91580123041.167969 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  97564615854.071289 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  93703592009.146973 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  92030851210.184570 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  97048791434.284668 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  96764346587.529785 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  91996236700.381348 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  93079331447.384766 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  97254727607.511230 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  96713853258.298340 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  92019699662.802246 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-180
+Elapsed time of solver =  97397765081.023926 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  99220533312.396973 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  92816059802.199707 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  98423947835.107910 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  96963170711.298828 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  98508953068.307129 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  92960719481.293457 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  98645126254.140625 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  98343159689.150879 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  93006824611.444336 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W after MVM at iteration-216
+Inject an error in W after MVM at iteration-360
+Inject an error in W after MVM at iteration-504
+Inject an error in W after MVM at iteration-648
+Inject an error in W after MVM at iteration-792
+Inject an error in W after MVM at iteration-936
+Inject an error in W after MVM at iteration-1080
+Inject an error in W after MVM at iteration-1224
+Inject an error in W after MVM at iteration-1368
+Inject an error in W after MVM at iteration-1512
+Inject an error in W after MVM at iteration-1656
+Inject an error in W after MVM at iteration-1800
+Inject an error in W after MVM at iteration-1944
+Elapsed time of solver =  98258968028.701660 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  317580756811.516113 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  315913149013.059570 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  317312508152.111816 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  316706260572.565918 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  315806888306.716797 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  316485106524.177734 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  317627615707.878906 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  312185314755.847656 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  318930706374.771484 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6374884
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  318959266020.186523 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.

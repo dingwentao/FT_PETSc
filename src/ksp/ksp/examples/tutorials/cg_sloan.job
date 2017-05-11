@@ -1,0 +1,59 @@
+#!/bin/bash
+
+#SBATCH -J cg_sloan          # Job name
+#SBATCH -o cg_sloan.%j.out   # stdout; %j expands to jobid
+#SBATCH -e cg_sloan.%j.err   # stderr; skip to combine stdout and stderr
+#SBATCH -p normal    # queue
+#SBATCH -N 128              # Number of nodes, not cores (16 cores/node)
+#SBATCH -n 2048             # Total number of MPI tasks (if omitted, n=N)
+#SBATCH -t 04:00:00       # max time
+
+#SBATCH --mail-user=dtao001@ucr.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -A TG-EAR130035       # class project/account code;
+
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 0 0
+
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 1 180
+
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 2 72
+
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+ibrun ./cg_sloan -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 0 3 0
+

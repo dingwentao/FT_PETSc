@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH -J ex3          # Job name
+#SBATCH -o ex3.%j.out   # stdout; %j expands to jobid
+#SBATCH -e ex3.%j.err   # stderr; skip to combine stdout and stderr
+#SBATCH -p development    # queue
+#SBATCH -N 2              # Number of nodes, not cores (16 cores/node)
+#SBATCH -n 8              # Total number of MPI tasks (if omitted, n=N)
+#SBATCH -t 00:30:00       # max time
+
+#SBATCH --mail-user=dtao001@ucr.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -A TG-EAR130035       # class project/account code;
+                          # necessary if you have multiple project accounts
+
+ibrun ./ex3 -n 100 -ksp_type cg -pc_type bjacobi -sub_pc_type icc -ksp_rtol 1.e-8
+ibrun ./ex3 -n 100 -ksp_type preonly -pc_type redistribute -redistribute_ksp_type cg -redistribute_pc_type bjacobi -redistribute_sub_pc_type icc -redistribute_ksp_rtol 1.e-8

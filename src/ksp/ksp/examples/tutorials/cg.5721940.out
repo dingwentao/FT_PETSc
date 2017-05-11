@@ -1,0 +1,7 @@
+TACC: Starting up job 5721940
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W of position-0 after MVM at iteration-367
+Recovery start...
+Rollback from iteration-400 to iteration-0
+Recovery end.

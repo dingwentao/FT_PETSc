@@ -1,0 +1,670 @@
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+elapsed time of main loop = 88656936694.528809 nanoseconds
+Solver type = 0
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 0
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  88889799006.769043 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+elapsed time of main loop = 89581122595.506348 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 0
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  89650799177.191406 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Number of detections = 9
+Number of recoverys = 0
+Number of checkpoints = 4
+Number of iterations = 1972
+Average time of each detection = 145689.000000 nanoseconds
+Average time of each recovery = -nan nanoseconds
+Average time of each checkpoint = 12541.500000 nanoseconds
+Average time of each iteration = 45243590.711968 nanoseconds
+Elapsed time of main loop = 89267532241.915039 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 0
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  89446944000.564453 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+elapsed time of main loop = 92032678662.772461 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 0
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  92389363290.490723 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W of position-0 after MVM at iteration-501
+elapsed time of main loop = 448635738677.629883 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 1
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  448667963466.169434 nanoseconds
+Relative norm of error = 2.464183
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W of position-0 after MVM at iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 143182.700000 nanoseconds
+Average time of each recovery = 89267406.000000 nanoseconds
+Average time of each checkpoint = 12569.500000 nanoseconds
+Average time of each iteration = 45346774.809392 nanoseconds
+Elapsed time of main loop = 98629880583.031250 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 1
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  98770727161.551270 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in W of position-0 after MVM at iteration-501
+Locate and correct right away
+Correct an error in output vector of MVM at iteration-501
+elapsed time of main loop = 89678427426.715820 nanoseconds
+Number of iterations without rollback = 1968
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 1
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  89995291877.692871 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 1968
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in W of position-892324 and position-894942 after MVM at iteration-501
+elapsed time of main loop = 453559837590.643066 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 2
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  453591662992.991699 nanoseconds
+Relative norm of error = 2.464156
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in W of position-1122831 and position-1019528 after MVM at iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 295375.400000 nanoseconds
+Average time of each recovery = 98001185.000000 nanoseconds
+Average time of each checkpoint = 13014.250000 nanoseconds
+Average time of each iteration = 45962955.412523 nanoseconds
+Elapsed time of main loop = 99978537977.596680 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 2
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  100112683162.755371 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in W of position-1346696 and position-1441410 after MVM at iteration-501
+Multiple errors of output vector
+Recovery start...
+Rollback from iteration-501 to iteration-400
+Recovery end.
+elapsed time of main loop = 96307034536.042969 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 2
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  96610215459.868164 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2074
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in P of position-1101149 at the end of iteration-501
+elapsed time of main loop = 453924339023.502930 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 3
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  453959099059.551758 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in P of position-1338291 at the end of iteration-501
+Number of detections = 49
+Number of recoverys = 0
+Number of checkpoints = 24
+Number of iterations = 10000
+Average time of each detection = 786661.591837 nanoseconds
+Average time of each recovery = -nan nanoseconds
+Average time of each checkpoint = 12514.458333 nanoseconds
+Average time of each iteration = 46106666.297300 nanoseconds
+Elapsed time of main loop = 461251700263.147461 nanoseconds
+Number of iterations without rollback = 10001
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 3
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  461393408747.660156 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in P of position-1129490 at the end of iteration-501
+Errors occur before MVM
+Recovery start...
+Rollback from iteration-501 to iteration-400
+Recovery end.
+elapsed time of main loop = 97961177768.470703 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 3
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  98278811180.286621 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2074
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in P of position-668449 and position-955307 at the end of iteration-501
+elapsed time of main loop = 451458067298.261719 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 4
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  451490579193.358887 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in P of position-1344001 and position-553631 at the end of iteration-501
+Number of detections = 49
+Number of recoverys = 0
+Number of checkpoints = 24
+Number of iterations = 10000
+Average time of each detection = 124728.122449 nanoseconds
+Average time of each recovery = -nan nanoseconds
+Average time of each checkpoint = 12798.375000 nanoseconds
+Average time of each iteration = 44995263.373300 nanoseconds
+Elapsed time of main loop = 450103467357.413574 nanoseconds
+Number of iterations without rollback = 10001
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 4
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  450240167513.082520 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in P of position-1456322 and position-1095493 at the end of iteration-501
+Errors occur before MVM
+Recovery start...
+Rollback from iteration-501 to iteration-400
+Recovery end.
+elapsed time of main loop = 97053509908.929199 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 4
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  97366551793.219727 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2074
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in X of position-200728 at the end of iteration-501
+elapsed time of main loop = 89933640140.897949 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 5
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  89964717042.592773 nanoseconds
+Relative norm of error = 1375.956742
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in X of position-1298662 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 116445.400000 nanoseconds
+Average time of each recovery = 88715784.000000 nanoseconds
+Average time of each checkpoint = 12708.500000 nanoseconds
+Average time of each iteration = 45376688.924954 nanoseconds
+Elapsed time of main loop = 98724499437.414551 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 5
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  98864796922.566895 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in X of position-951194 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+elapsed time of main loop = 100427181331.397461 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 5
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  100755428935.903809 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in X of position-1398446 and position-1155183 at the end of iteration-501
+elapsed time of main loop = 90116948960.542969 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 6
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  90149257997.500488 nanoseconds
+Relative norm of error = 1945.896685
+Number of iterations = 1973
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in X of position-912572 and position-707248 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 107314.800000 nanoseconds
+Average time of each recovery = 88621776.000000 nanoseconds
+Average time of each checkpoint = 12415.750000 nanoseconds
+Average time of each iteration = 45554168.532228 nanoseconds
+Elapsed time of main loop = 99214988340.000977 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 6
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  99354705325.190918 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in X of position-1132249 and position-1128103 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+elapsed time of main loop = 100429495242.812012 nanoseconds
+Number of iterations without rollback = 1975
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 6
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  100749937429.767578 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2175
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in R of position-1582297 at the end of iteration-501
+elapsed time of main loop = 453231729173.027832 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 7
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  453265185398.416504 nanoseconds
+Relative norm of error = 2.464239
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in R of position-790537 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 123620.200000 nanoseconds
+Average time of each recovery = 88911287.000000 nanoseconds
+Average time of each checkpoint = 13764.750000 nanoseconds
+Average time of each iteration = 46088796.214549 nanoseconds
+Elapsed time of main loop = 100273663598.225586 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 7
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  100410735840.492676 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in R of position-440942 at the end of iteration-501
+Multiple errors of output vector
+Recovery start...
+Rollback from iteration-502 to iteration-400
+Recovery end.
+elapsed time of main loop = 95131424750.604004 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 7
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  95435403267.938477 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2075
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in R of position-1220021 and position-311824 at the end of iteration-501
+elapsed time of main loop = 453065068272.642090 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 8
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  453102534729.415527 nanoseconds
+Relative norm of error = 2.464186
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in R of position-97818 and position-1376421 at the end of iteration-501
+Recovery start...
+Rollback from iteration-600 to iteration-400
+Recovery end.
+Number of detections = 10
+Number of recoverys = 1
+Number of checkpoints = 4
+Number of iterations = 2172
+Average time of each detection = 138474.700000 nanoseconds
+Average time of each recovery = 89162821.000000 nanoseconds
+Average time of each checkpoint = 12861.500000 nanoseconds
+Average time of each iteration = 45748390.527164 nanoseconds
+Elapsed time of main loop = 99645797390.251465 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 8
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  99786166314.286621 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2173
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in R of position-1111930 and position-1003802 at the end of iteration-501
+Multiple errors of output vector
+Recovery start...
+Rollback from iteration-502 to iteration-400
+Recovery end.
+elapsed time of main loop = 95886013261.562500 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 8
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  96203793711.013184 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2075
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in Z of position-860301 at the end of iteration-501
+elapsed time of main loop = 451448198415.872559 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 9
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  451491431522.004883 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in Z of position-749605 at the end of iteration-501
+Number of detections = 49
+Number of recoverys = 0
+Number of checkpoints = 24
+Number of iterations = 10000
+Average time of each detection = 129347.020408 nanoseconds
+Average time of each recovery = -nan nanoseconds
+Average time of each checkpoint = 12724.083333 nanoseconds
+Average time of each iteration = 45048779.543800 nanoseconds
+Elapsed time of main loop = 450530216439.072266 nanoseconds
+Number of iterations without rollback = 10001
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 9
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  450666916648.053223 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject an error in Z of position-63223 at the end of iteration-501
+Errors occur before MVM
+Recovery start...
+Rollback from iteration-501 to iteration-400
+Recovery end.
+elapsed time of main loop = 95008691039.540039 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 9
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  95316722145.154297 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2074
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in Z of position-53785 and position-1121404 at the end of iteration-501
+elapsed time of main loop = 450625327877.696289 nanoseconds
+Solver type = 1
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 10
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  450661149345.310547 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in Z of position-168170 and position-80066 at the end of iteration-501
+Number of detections = 49
+Number of recoverys = 0
+Number of checkpoints = 24
+Number of iterations = 10000
+Average time of each detection = 335748.693878 nanoseconds
+Average time of each recovery = -nan nanoseconds
+Average time of each checkpoint = 12790.416667 nanoseconds
+Average time of each iteration = 45122237.531100 nanoseconds
+Elapsed time of main loop = 451276291022.224121 nanoseconds
+Number of iterations without rollback = 10001
+Solver type = 2
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 10
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  451417424130.854980 nanoseconds
+Relative norm of error = 0.050566
+Number of iterations = 10000
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5719389
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Inject two errors in Z of position-51812 and position-1274332 at the end of iteration-501
+Errors occur before MVM
+Recovery start...
+Rollback from iteration-501 to iteration-400
+Recovery end.
+elapsed time of main loop = 96123628185.143555 nanoseconds
+Number of iterations without rollback = 1973
+Solver type = 3
+0 - Original, 1- Offline-residual, 2 - Algorithm 1, 3 - Algorithm 2
+Error type = 10
+0 - No error, 1 - One error in W, 2 - Two errors in W, 3 - One error in P, 4 - Two errors in P, 5 - One error in X
+6 - Two errors in X, 7 - One error in R, 8 - Two errors in R, 9 - One error in Z, 10 - Two errors in Z
+Elapsed time of solver =  96442694832.876953 nanoseconds
+Relative norm of error = 0.000006
+Number of iterations = 2074
+ 
+TACC: Shutdown complete. Exiting.

@@ -1,0 +1,80 @@
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  151815544189.998535 nanoseconds
+Relative norm of error = 0.000195
+Number of iterations = 1662
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  141493033823.252441 nanoseconds
+Relative norm of error = 0.000043
+Number of iterations = 1548
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  166219327812.862793 nanoseconds
+Relative norm of error = 0.000124
+Number of iterations = 1814
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  57046722151.054688 nanoseconds
+Relative norm of error = 0.044807
+Number of iterations = 624
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  182746739627.904785 nanoseconds
+Relative norm of error = 0.001270
+Number of iterations = 2002
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  184255125413.654297 nanoseconds
+Relative norm of error = 0.000882
+Number of iterations = 2019
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  123488733535.696777 nanoseconds
+Relative norm of error = 0.000160
+Number of iterations = 1348
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  156567084748.023438 nanoseconds
+Relative norm of error = 0.000097
+Number of iterations = 1686
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  142742254516.527832 nanoseconds
+Relative norm of error = 0.000154
+Number of iterations = 1566
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 6352320
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed time of solver =  138588339683.758789 nanoseconds
+Relative norm of error = 0.000518
+Number of iterations = 1498
+ 
+TACC: Shutdown complete. Exiting.

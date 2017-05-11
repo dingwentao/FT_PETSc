@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#SBATCH -J cg          # Job name
+#SBATCH -o cg.%j.out   # stdout; %j expands to jobid
+#SBATCH -e cg.%j.err   # stderr; skip to combine stdout and stderr
+#SBATCH -p development   # queue
+#SBATCH -N 16              # Number of nodes, not cores (16 cores/node)
+#SBATCH -n 256             # Total number of MPI tasks (if omitted, n=N)
+#SBATCH -t 01:00:00       # max time
+
+#SBATCH --mail-user=dtao001@ucr.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -A TG-EAR130035       # class project/account code;
+
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 5 2 100 0 1000000 1
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 5 2 100 0 1000000 1
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 5 2 100 0 1000000 2
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 5 2 100 0 1000000 2
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 5 2 100 0 1000000 4
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 5 2 100 0 1000000 4
+
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 7 2 100 0 1000000 1
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 7 2 100 0 1000000 1
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 7 2 100 0 1000000 2
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 7 2 100 0 1000000 2
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 4 7 2 100 0 1000000 4
+ibrun ./ex2 -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 5 7 2 100 0 1000000 4
+

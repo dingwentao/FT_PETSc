@@ -1,0 +1,26 @@
+[0]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[0]PETSC ERROR: Unknown type. Check for miss-spelling or missing package: http://www.mcs.anl.gov/petsc/documentation/installation.html#external
+[0]PETSC ERROR: Unable to find requested PC type ml
+[0]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[0]PETSC ERROR: Petsc Release Version 3.6.1, unknown 
+[0]PETSC ERROR: /home1/02882/dingwen/petsc/src/ksp/ksp/examples/tutorials/ex56 on a arch-linux2-c-debug named c557-204.stampede.tacc.utexas.edu by dingwen Tue Aug 25 13:30:03 2015
+[0]PETSC ERROR: Configure options --download-fblaslapack --with-mpi-dir=/opt/apps/intel13/mvapich2/1.9
+[0]PETSC ERROR: #1 PCSetType() line 71 in /home1/02882/dingwen/petsc/src/ksp/pc/interface/pcset.c
+[0]PETSC ERROR: #2 PCSetFromOptions() line 166 in /home1/02882/dingwen/petsc/src/ksp/pc/interface/pcset.c
+[0]PETSC ERROR: #3 KSPSetFromOptions() line 358 in /home1/02882/dingwen/petsc/src/ksp/ksp/interface/itcl.c
+[0]PETSC ERROR: #4 main() line 81 in /home1/02882/dingwen/petsc/src/ksp/ksp/examples/tutorials/ex56.c
+[0]PETSC ERROR: PETSc Option Table entries:
+[0]PETSC ERROR: -alpha 1.e-3
+[0]PETSC ERROR: -ksp_monitor_short
+[0]PETSC ERROR: -mg_coarse_ksp_type preonly
+[0]PETSC ERROR: -mg_levels_ksp_chebyshev_esteig 0,0.05,0,1.05
+[0]PETSC ERROR: -mg_levels_ksp_type chebyshev
+[0]PETSC ERROR: -mg_levels_pc_type sor
+[0]PETSC ERROR: -ne 9
+[0]PETSC ERROR: -pc_type ml
+[0]PETSC ERROR: ----------------End of Error Message -------send entire error message to petsc-maint@mcs.anl.gov----------
+[cli_0]: aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 86) - process 0
+[c557-204.stampede.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c557-204.stampede.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c557-204.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 125475) exited with status 86

@@ -1,0 +1,82 @@
+#!/bin/bash
+
+#SBATCH -J bcgs_cks          # Job name
+#SBATCH -o bcgs_cks.%j.out   # stdout; %j expands to jobid
+#SBATCH -e bcgs_cks.%j.err   # stderr; skip to combine stdout and stderr
+#SBATCH -p normal    # queue
+#SBATCH -N 128              # Number of nodes, not cores (16 cores/node)
+#SBATCH -n 2048             # Total number of MPI tasks (if omitted, n=N)
+#SBATCH -t 04:00:00       # max time
+
+#SBATCH --mail-user=dtao001@ucr.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -A TG-EAR130035       # class project/account code;
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 0 0
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 1 162
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 1 2 1
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 0 0
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 1 162
+
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+ibrun ./bcgs_cks -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type bcgs 2 2 1
+

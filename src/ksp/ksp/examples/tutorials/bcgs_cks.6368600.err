@@ -1,0 +1,2 @@
+slurmstepd: *** JOB 6368600 CANCELLED AT 2016-01-15T11:53:30 DUE TO TIME LIMIT on c403-904 ***
+[c403-904.stampede.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job

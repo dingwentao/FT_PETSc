@@ -1,0 +1,45 @@
+#!/bin/bash
+
+#SBATCH -J cg_opt_itv          # Job name
+#SBATCH -o cg_opt_itv.%j.out   # stdout; %j expands to jobid
+#SBATCH -e cg_opt_itv.%j.err   # stderr; skip to combine stdout and stderr
+#SBATCH -p normal    # queue
+#SBATCH -N 128              # Number of nodes, not cores (16 cores/node)
+#SBATCH -n 2048             # Total number of MPI tasks (if omitted, n=N)
+#SBATCH -t 01:00:00       # max time
+
+#SBATCH --mail-user=dtao001@ucr.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -A TG-EAR130035       # class project/account code;
+
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 1 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 2 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 3 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 4 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 5 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 6 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 7 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 8 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 9 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/pwtk -ksp_type cg 1 10 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 1 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 2 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 3 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 4 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 5 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 6 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 7 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 8 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 9 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/G3_circuit -ksp_type cg 1 10 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 1 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 2 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 3 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 4 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 5 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 6 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 7 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 8 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 9 2 10 70 1000000
+ibrun ./cg_solver -f /home1/02882/dingwen/matrices/poisson3 -ksp_type cg 1 10 2 10 70 1000000
